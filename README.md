@@ -1,4 +1,5 @@
 # first_repo
-this is my first Git repository 
+
+this is my first Git repository
 <br>
-Author - Lalit Khavale
+Author - Lalit Navanath Khavale
